@@ -15,3 +15,4 @@ public class Q4{
       sc.close();
     }
 }
+
