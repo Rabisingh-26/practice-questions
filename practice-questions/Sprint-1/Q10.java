@@ -9,5 +9,6 @@ public class Q10{
 
         float far = (temp*9.0f/5.0f)+32;
         System.out.println(far);
-    }
+         sc.close();
+     }
 }
