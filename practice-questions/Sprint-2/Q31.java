@@ -1,4 +1,4 @@
-//The Kaprekar’s Constant
+// Kaprekar’s Constant
 import java.util.*;
 public class Q31 {
      public static void main(String[] args) {

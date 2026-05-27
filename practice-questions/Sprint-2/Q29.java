@@ -1,5 +1,5 @@
 
-//Josephus Problem
+// The Josephus Problem
 import java.util.*;
 
 public class Q29 {

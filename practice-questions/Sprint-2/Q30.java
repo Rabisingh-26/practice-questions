@@ -1,4 +1,4 @@
-//The Collatz Conjecture Steps
+//Collatz Conjecture Steps
 
 import java.util.Scanner;
 public class Q30 {

@@ -1,4 +1,4 @@
-//The Amicable Pair Finder
+//Amicable Pair Finder
 
 import java.util.*;
 public class Q32{
