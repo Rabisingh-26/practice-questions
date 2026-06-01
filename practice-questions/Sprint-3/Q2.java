@@ -1,4 +1,4 @@
-//Cross Pattern in a Matrix
+// The Cross Pattern in a Matrix
 import java.util.*;
 public class Q2 {
     public static void main(String[] args) {
