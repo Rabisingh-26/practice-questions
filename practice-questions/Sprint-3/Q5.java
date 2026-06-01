@@ -1,4 +1,4 @@
-//The Floyd's Triangle Variants
+//Floyd's Triangle Variants
 import java.util.*;
 public class Q5 {
     public static void main(String[] args) {
